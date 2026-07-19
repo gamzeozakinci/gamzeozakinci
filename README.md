@@ -46,7 +46,7 @@
 | **CI/CD** | Jenkins (build pipelines, running automated suites) |
 | **Database** | SQL, MySQL, JDBC |
 | **Tools** | Jira, Git, GitHub |
-| **Programming** | Java, Python |
+| **Programming** | Java |
 
 ---
 
@@ -112,17 +112,10 @@ Selenium WebDriver with Java • TestNG • Cucumber BDD • RestAssured • Jen
   <a href="https://www.oracle.com/database/technologies/appdev/jdbc.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="jdbc" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamzeozakinci&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
 </p>
