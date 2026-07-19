@@ -52,14 +52,10 @@
 
 ### 🚀 Featured Projects
 
-> Add your repos here so recruiters can see real code — this section carries the most weight for a QA job search.
-
 - **[REST Assured API Test Framework](#)** — Maven project testing a public REST API (reqres.in); Given-When-Then structure, POJOs, reusable `RequestSpecification`, Hamcrest assertions.
 - **[Selenium + Cucumber BDD Suite](#)** — Page Object Model, Gherkin feature files, WebDriver lifecycle management.
 - **[SQL + JDBC Practice](#)** — Queries against a MySQL `employees` database using a reusable `DBConnection` class.
 - **[Postman API Test Collection](#)** — `pm.test` scripts with clear, debuggable assertions for a sample API.
-
-*(Replace the `#` links above with your actual repo URLs — pinning 3-4 solid repos here is one of the highest-impact things you can do for your profile.)*
 
 ---
 
