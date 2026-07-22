@@ -52,6 +52,9 @@
 
 ### 🚀 Featured Projects
 
+https://github.com/gamzeozakinci/CucumberProject
+https://github.com/gamzeozakinci/OpenMrsAutomationTest
+
 - **[REST Assured API Test Framework](#)** — Maven project testing a public REST API (reqres.in); Given-When-Then structure, POJOs, reusable `RequestSpecification`, Hamcrest assertions.
 - **[Selenium + Cucumber BDD Suite](#)** — Page Object Model, Gherkin feature files, WebDriver lifecycle management.
 - **[SQL + JDBC Practice](#)** — Queries against a MySQL `employees` database using a reusable `DBConnection` class.
