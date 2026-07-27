@@ -27,7 +27,7 @@
 - 🧪 Experience testing **B2B and B2C applications**
 - 🐞 Skilled in reproducing, documenting, and tracking bugs in **Jira**
 - 🔗 Practicing **REST API testing** with **Postman** and **RestAssured**
-- 🗄️ Building database testing skills with **SQL, MySQL, and JDBC**
+- 🗄️ Building database testing skills with **SQL and JDBC**
 - 🤖 Learning test automation with **Selenium WebDriver, TestNG, and Cucumber (BDD)**
 - ⚙️ Learning **CI/CD** basics with **Jenkins** to run automated test suites on every build
 - 📚 Preparing for **ISTQB Foundation Level Certification**
