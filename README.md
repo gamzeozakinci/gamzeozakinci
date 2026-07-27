@@ -41,11 +41,11 @@
 |---|---|
 | **Manual Testing** | Test Case Design & Execution, Functional, Regression, Smoke Testing, Bug Reporting |
 | **QA Concepts** | SDLC, STLC, Defect Life Cycle, Test Documentation, ISTQB Foundation Level |
-| **API Testing** | Postman, RestAssured, REST API (Given-When-Then), Hamcrest matchers |
+| **API Testing** | Postman, RestAssured, REST API (Given-When-Then) |
 | **Automation** | Java, Selenium WebDriver, TestNG, Cucumber BDD |
 | **CI/CD** | Jenkins (build pipelines, running automated suites) |
-| **Database** | SQL, MySQL, JDBC |
-| **Tools** | Jira, Git, GitHub |
+| **Database** | SQL JDBC |
+| **Tools** | Jira, GitHub |
 | **Programming** | Java |
 
 ---
