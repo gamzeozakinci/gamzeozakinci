@@ -59,7 +59,7 @@
 
 ### 🌱 Currently Learning
 
-Selenium WebDriver with Java • TestNG • Cucumber BDD • RestAssured • Jenkins CI/CD • MySQL & JDBC • ISTQB Foundation Level • Git & GitHub workflows
+ISTQB Foundation Level • Git & GitHub workflows • Playwright • Jmeter • Appium 
 
 ---
 
