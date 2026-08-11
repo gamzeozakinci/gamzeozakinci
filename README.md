@@ -43,8 +43,8 @@
 | **QA Concepts** | SDLC, STLC, Defect Life Cycle, Test Documentation, ISTQB Foundation Level |
 | **API Testing** | Postman, RestAssured, REST API (Given-When-Then) |
 | **Automation** | Java, Selenium WebDriver, TestNG, Cucumber BDD |
-| **CI/CD** | Jenkins (build pipelines, running automated suites) |
-| **Database** | SQL JDBC |
+| **CI/CD** | Jenkins (running automated suites) |
+| **Database** | SQL, JDBC |
 | **Tools** | Jira, GitHub |
 | **Programming** | Java |
 
