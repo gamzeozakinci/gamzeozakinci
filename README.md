@@ -9,7 +9,9 @@
   I'm a Software Support Specialist transitioning into QA Engineering, with hands-on experience in
   manual testing, Jira-based bug tracking, REST API testing with Postman & RestAssured, SQL, and
   production issue analysis. I'm actively building automation skills with Selenium, Java, Cucumber,
-  and CI/CD with Jenkins — and I'm ISTQB Foundation Level (CTFL) certified.
+  and CI/CD with Jenkins.
+  <br/><br/>
+  <strong style="font-size:1.4em;">✅ I'm ISTQB Foundation Level (CTFL) certified.</strong>
 </p>
 
 <p align="center">
