@@ -2,14 +2,14 @@
 <h3 align="center">Junior QA Engineer | Manual, API & Automation Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Manual+%2B+API+%2B+Automation+Testing;Selenium+%7C+Java+%7C+Cucumber+%7C+RestAssured;Preparing+for+ISTQB+Foundation+Level" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Manual+%2B+API+%2B+Automation+Testing;Selenium+%7C+Java+%7C+Cucumber+%7C+RestAssured;ISTQB+Foundation+Level+Certified+%E2%9C%94" alt="Typing SVG" />
 </p>
 
 <p align="center">
   I'm a Software Support Specialist transitioning into QA Engineering, with hands-on experience in
   manual testing, Jira-based bug tracking, REST API testing with Postman & RestAssured, SQL, and
   production issue analysis. I'm actively building automation skills with Selenium, Java, Cucumber,
-  and CI/CD with Jenkins — and studying for ISTQB Foundation Level (CTFL v4.0).
+  and CI/CD with Jenkins — and I'm ISTQB Foundation Level (CTFL) certified.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 - 🗄️ Building database testing skills with **SQL and JDBC**
 - 🤖 Learning test automation with **Selenium WebDriver, TestNG, and Cucumber (BDD)**
 - ⚙️ Learning **CI/CD** basics with **Jenkins** to run automated test suites on every build
-- 📚 Preparing for **ISTQB Foundation Level Certification**
+- ✅ **ISTQB Foundation Level (CTFL) Certified** — Turkish Testing Board
 - 💬 I enjoy bridging the gap between complex technical bugs and user-friendly solutions
 
 ---
@@ -40,7 +40,7 @@
 | Category | Skills |
 |---|---|
 | **Manual Testing** | Test Case Design & Execution, Functional, Regression, Smoke Testing, Bug Reporting |
-| **QA Concepts** | SDLC, STLC, Defect Life Cycle, Test Documentation, ISTQB Foundation Level |
+| **QA Concepts** | SDLC, STLC, Defect Life Cycle, Test Documentation, ISTQB Foundation Level (Certified) |
 | **API Testing** | Postman, RestAssured, REST API (Given-When-Then) |
 | **Automation** | Java, Selenium WebDriver, TestNG, Cucumber BDD |
 | **CI/CD** | Jenkins (running automated suites) |
@@ -50,16 +50,27 @@
 
 ---
 
+### 🏅 Certifications
+
+<a href="https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786" target="_blank">
+  <img src="https://cdn.diplomasafe.com/template_badges/share_optimized/87fadf55de1f2521c72e01b7c5a6818a.png" alt="ISTQB Foundation Level (CTFL) Certificate" width="280"/>
+</a>
+
+**ISTQB Foundation Level (CTFL)** — Turkish Testing Board
+[View verified certificate →](https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786)
+
+---
 
 ### 🚀 Featured Projects
 
 - **[Cucumber + Selenium Automation Suite](https://github.com/gamzeozakinci/CucumberProject)** — BDD test suite with Cucumber and Selenium WebDriver, currently debugging driver lifecycle issues across scenario runs.
 - **[OpenMRS Automation Testing](https://github.com/gamzeozakinci/OpenMrsAutomationTest)** — Automated test suite built against the OpenMRS reference application using TestNG.
+
 ---
 
 ### 🌱 Currently Learning
 
-ISTQB Foundation Level • Git & GitHub workflows • Playwright • Jmeter • Appium 
+Playwright • JMeter • Appium • Git & GitHub workflows
 
 ---
 
