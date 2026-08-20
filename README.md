@@ -32,7 +32,7 @@
 - 🗄️ Building database testing skills with **SQL and JDBC**
 - 🤖 Learning test automation with **Selenium WebDriver, TestNG, and Cucumber (BDD)**
 - ⚙️ Learning **CI/CD** basics with **Jenkins** to run automated test suites on every build
-- ✅ **ISTQB Foundation Level (CTFL) Certified** — Turkish Testing Board
+- ✅ **ISTQB Foundation Level (CTFL) Certified** — International Software Testing Qualifications Board
 - 💬 I enjoy bridging the gap between complex technical bugs and user-friendly solutions
 
 ---
