@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  📍 Open to Junior QA Engineer roles &nbsp;•&nbsp;
+  📍 Open to QA Engineer roles &nbsp;•&nbsp;
   📄 <a href="#">Resume</a> &nbsp;•&nbsp;
   💼 <a href="https://www.linkedin.com/in/gamzeozakinci/">LinkedIn</a> &nbsp;•&nbsp;
   ✉️ gamze.ozakinci@gmail.com
