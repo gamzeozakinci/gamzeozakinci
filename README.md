@@ -2,13 +2,13 @@
 <h3 align="center">Junior QA Engineer | Manual, API & Automation Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Manual+%2B+API+%2B+Automation+Testing;Selenium+%7C+Java+%7C+Cucumber+%7C+RestAssured;ISTQB+Foundation+Level+Certified+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Manual+%2B+API+%2B+Automation+Testing;Selenium+%7C+Playwright+%7C+Java+%7C+Cucumber+%7C+RestAssured;ISTQB+Foundation+Level+Certified+%E2%9C%94" alt="Typing SVG" />
 </p>
 
 <p align="center">
   I'm a Software Support Specialist transitioning into QA Engineering, with hands-on experience in
   manual testing, Jira-based bug tracking, REST API testing with Postman & RestAssured, SQL, and
-  production issue analysis. I'm actively building automation skills with Selenium, Java, Cucumber,
+  production issue analysis. I'm actively building automation skills with Selenium, Playwright, Java, Cucumber,
   and CI/CD with Jenkins.
   <br/><br/>
   <strong style="font-size:1.4em;">✅ I'm ISTQB Foundation Level (CTFL) certified.</strong>
@@ -30,7 +30,7 @@
 - 🐞 Skilled in reproducing, documenting, and tracking bugs in **Jira**
 - 🔗 Practicing **REST API testing** with **Postman** and **RestAssured**
 - 🗄️ Building database testing skills with **SQL and JDBC**
-- 🤖 Learning test automation with **Selenium WebDriver, TestNG, and Cucumber (BDD)**
+- 🤖 Building test automation with **Selenium WebDriver, Playwright, TestNG, and Cucumber (BDD)**
 - ⚙️ Learning **CI/CD** basics with **Jenkins** to run automated test suites on every build
 - ✅ **ISTQB Foundation Level (CTFL) Certified** — International Software Testing Qualifications Board
 - 💬 I enjoy bridging the gap between complex technical bugs and user-friendly solutions
@@ -44,7 +44,7 @@
 | **Manual Testing** | Test Case Design & Execution, Functional, Regression, Smoke Testing, Bug Reporting |
 | **QA Concepts** | SDLC, STLC, Defect Life Cycle, Test Documentation, ISTQB Foundation Level (Certified) |
 | **API Testing** | Postman, RestAssured, REST API (Given-When-Then) |
-| **Automation** | Java, Selenium WebDriver, TestNG, Cucumber BDD |
+| **Automation** | Java, Selenium WebDriver, Playwright, TestNG, Cucumber BDD |
 | **CI/CD** | Jenkins (running automated suites) |
 | **Database** | SQL, JDBC |
 | **Tools** | Jira, GitHub |
@@ -65,6 +65,7 @@
 
 ### 🚀 Featured Projects
 
+- **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)** — 30 end-to-end test cases (auth, navigation, search, filters, catalog, wishlist, cart, checkout) against a live cosmetics e-commerce site, in Java with Playwright and TestNG using the Page Object Model. Logged-in tests reuse saved session cookies instead of automating the OTP, and checkout stops before payment.
 - **[Cucumber + Selenium Automation Suite](https://github.com/gamzeozakinci/CucumberProject)** — BDD test suite with Cucumber and Selenium WebDriver, currently debugging driver lifecycle issues across scenario runs.
 - **[OpenMRS Automation Testing](https://github.com/gamzeozakinci/OpenMrsAutomationTest)** — Automated test suite built against the OpenMRS reference application using TestNG.
 
@@ -72,7 +73,7 @@
 
 ### 🌱 Currently Learning
 
-Playwright • JMeter • Appium • Git & GitHub workflows
+JMeter • Appium • Git & GitHub workflows
 
 ---
 
@@ -94,6 +95,9 @@ Playwright • JMeter • Appium • Git & GitHub workflows
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
   </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/>
