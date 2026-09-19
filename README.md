@@ -1,132 +1,65 @@
-<h1 align="center">Hi 👋, I'm Gamze</h1>
-<h3 align="center">Junior QA Engineer | Manual, API & Automation Testing</h3>
+<h1 align="center">Gamze Ozakinci</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Manual+%2B+API+%2B+Automation+Testing;Selenium+%7C+Playwright+%7C+Java+%7C+Cucumber+%7C+RestAssured;ISTQB+Foundation+Level+Certified+%E2%9C%94" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  I'm a Software Support Specialist transitioning into QA Engineering, with hands-on experience in
-  manual testing, Jira-based bug tracking, REST API testing with Postman & RestAssured, SQL, and
-  production issue analysis. I'm actively building automation skills with Selenium, Playwright, Java, Cucumber,
-  and CI/CD with Jenkins.
-  <br/><br/>
-  <strong style="font-size:1.4em;">✅ I'm ISTQB Foundation Level (CTFL) certified.</strong>
+  <b>QA Engineer</b> &nbsp;·&nbsp; Manual, API &amp; Automation Testing
 </p>
 
 <p align="center">
-  📍 Open to QA Engineer roles &nbsp;•&nbsp;
-  🌐 <a href="https://gamzeozakinci.github.io">Portfolio</a> &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/gamzeozakinci/">LinkedIn</a> &nbsp;•&nbsp;
-  ✉️ gamze.ozakinci@gmail.com
+  <a href="https://gamzeozakinci.github.io"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gamzeozakinci/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:gamze.ozakinci@gmail.com"><b>✉️ Email</b></a> &nbsp;·&nbsp;
+  📍 İzmir, Turkey
 </p>
 
----
+<img src="assets/divider.png" width="100%" alt="">
 
-### 👩‍💻 About Me
+### ▸ ABOUT
 
-- 🔍 Focused on **Manual Testing, API Testing, and Test Automation**
-- 🧪 Experience testing **B2B and B2C applications**
-- 🐞 Skilled in reproducing, documenting, and tracking bugs in **Jira**
-- 🔗 Practicing **REST API testing** with **Postman** and **RestAssured**
-- 🗄️ Building database testing skills with **SQL and JDBC**
-- 🤖 Building test automation with **Selenium WebDriver, Playwright, TestNG, and Cucumber (BDD)**
-- ⚙️ Learning **CI/CD** basics with **Jenkins** to run automated test suites on every build
-- ✅ **ISTQB Foundation Level (CTFL) Certified** — International Software Testing Qualifications Board
-- 💬 I enjoy bridging the gap between complex technical bugs and user-friendly solutions
+QA Engineer with a Software Support background and hands-on experience in manual testing, Jira-based bug tracking, REST API testing with Postman and RestAssured, SQL and production issue analysis. I've tested B2B and B2C applications end-to-end and I'm building test automation with Java, Selenium, Playwright, TestNG and Cucumber. ISTQB Foundation Level (CTFL) certified.
 
----
+<img src="assets/divider.png" width="100%" alt="">
 
-### 🧰 QA & Technical Skills
+### ▸ SKILLS
 
-| Category | Skills |
-|---|---|
-| **Manual Testing** | Test Case Design & Execution, Functional, Regression, Smoke Testing, Bug Reporting |
-| **QA Concepts** | SDLC, STLC, Defect Life Cycle, Test Documentation, ISTQB Foundation Level (Certified) |
-| **API Testing** | Postman, RestAssured, REST API (Given-When-Then) |
-| **Automation** | Java, Selenium WebDriver, Playwright, TestNG, Cucumber BDD |
-| **CI/CD** | Jenkins (running automated suites) |
-| **Database** | SQL, JDBC |
-| **Tools** | Jira, GitHub |
-| **Programming** | Java |
+**Testing** &nbsp; ![Manual](https://img.shields.io/badge/-Manual-9fd8f0?style=flat-square) ![Functional](https://img.shields.io/badge/-Functional-ffb6c9?style=flat-square) ![Regression](https://img.shields.io/badge/-Regression-ffe28a?style=flat-square) ![Smoke & Integration](https://img.shields.io/badge/-Smoke_%26_Integration-b7e29a?style=flat-square) ![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-c9a8f5?style=flat-square) ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-9fd8f0?style=flat-square) ![Defect Life Cycle](https://img.shields.io/badge/-Defect_Life_Cycle-ffb6c9?style=flat-square) ![SDLC / STLC](https://img.shields.io/badge/-SDLC_%2F_STLC-ffe28a?style=flat-square)
 
----
+**API** &nbsp; ![Postman](https://img.shields.io/badge/-Postman-9fd8f0?style=flat-square) ![RestAssured](https://img.shields.io/badge/-RestAssured-ffb6c9?style=flat-square) ![REST API](https://img.shields.io/badge/-REST_API-ffe28a?style=flat-square)
 
-### 🏅 Certifications
+**Automation** &nbsp; ![Java](https://img.shields.io/badge/-Java-9fd8f0?style=flat-square) ![Selenium](https://img.shields.io/badge/-Selenium-ffb6c9?style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-ffe28a?style=flat-square) ![TestNG](https://img.shields.io/badge/-TestNG-b7e29a?style=flat-square) ![Cucumber BDD](https://img.shields.io/badge/-Cucumber_BDD-c9a8f5?style=flat-square)
 
-<a href="https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786" target="_blank">
-  <img src="https://cdn.diplomasafe.com/template_badges/share_optimized/87fadf55de1f2521c72e01b7c5a6818a.png" alt="ISTQB Foundation Level (CTFL) Certificate" width="280"/>
-</a>
+**Data & tools** &nbsp; ![SQL](https://img.shields.io/badge/-SQL-9fd8f0?style=flat-square) ![JDBC](https://img.shields.io/badge/-JDBC-ffb6c9?style=flat-square) ![Jira](https://img.shields.io/badge/-Jira-ffe28a?style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-b7e29a?style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-c9a8f5?style=flat-square)
 
-**ISTQB Foundation Level (CTFL)** — Turkish Testing Board
-[View verified certificate →](https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786)
+**Learning** &nbsp; ![JMeter](https://img.shields.io/badge/-JMeter-c9a8f5?style=flat-square) ![Appium](https://img.shields.io/badge/-Appium-c9a8f5?style=flat-square)
 
----
+<img src="assets/divider.png" width="100%" alt="">
 
-### 🚀 Featured Projects
+### ▸ FEATURED PROJECTS
 
-- **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)** — 30 end-to-end test cases (auth, navigation, search, filters, catalog, wishlist, cart, checkout) against a live cosmetics e-commerce site, in Java with Playwright and TestNG using the Page Object Model. Logged-in tests reuse saved session cookies instead of automating the OTP, and checkout stops before payment.
-- **[Cucumber + Selenium Automation Suite](https://github.com/gamzeozakinci/CucumberProject)** — BDD test suite with Cucumber and Selenium WebDriver, currently debugging driver lifecycle issues across scenario runs.
-- **[OpenMRS Automation Testing](https://github.com/gamzeozakinci/OpenMrsAutomationTest)** — Automated test suite built against the OpenMRS reference application using TestNG.
+> **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**
+> 30 end-to-end tests (auth, navigation, search, filters, catalog, wishlist, cart, checkout) against a live e-commerce site, built with the Page Object Model.
+> `Java` `Playwright` `TestNG` `Maven`
 
----
+> **[Cucumber + Selenium Automation Suite](https://github.com/gamzeozakinci/CucumberProject)**
+> BDD test suite with Cucumber and Selenium WebDriver.
+> `Java` `Selenium` `Cucumber`
 
-### 🌱 Currently Learning
+> **[OpenMRS Automation Testing](https://github.com/gamzeozakinci/OpenMrsAutomationTest)**
+> Automated test suite built against the OpenMRS reference application using TestNG.
+> `Java` `TestNG`
 
-JMeter • Appium • Git & GitHub workflows
+<img src="assets/divider.png" width="100%" alt="">
 
----
+### ▸ EXPERIENCE
 
-### 🤝 Connect with Me
+- **Software Support Specialist** · AnexTour · *May 2023 – Present*
+- **SDET Intern** · Techno Study Inc. · *Jun 2025 – Aug 2026*
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gamzeozakinci/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+### ▸ CERTIFICATION
 
----
+<a href="https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786"><img src="https://cdn.diplomasafe.com/template_badges/share_optimized/87fadf55de1f2521c72e01b7c5a6818a.png" alt="ISTQB Foundation Level (CTFL) Certificate" width="200"></a>
 
-### 🛠️ Languages and Tools
+**ISTQB Foundation Level (CTFL)** — Turkish Testing Board · [verify certificate](https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786)
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://playwright.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/>
-  </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="testng" width="40" height="40"/>
-  </a>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-    <img src="https://rest-assured.io/img/logo-transparent.png" alt="restassured" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/technologies/appdev/jdbc.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="jdbc" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
+<img src="assets/divider.png" width="100%" alt="">
+
+<p align="center"><sub>♥ made with pixels &amp; test cases</sub></p>
