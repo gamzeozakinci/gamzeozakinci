@@ -15,7 +15,7 @@
 
 ### ▸ ABOUT
 
-QA Engineer with a Software Support background and hands-on experience in manual testing, Jira-based bug tracking, REST API testing with Postman and RestAssured, SQL and production issue analysis. I've tested B2B and B2C applications end-to-end and I'm building test automation with Java, Selenium, Playwright, TestNG and Cucumber. ISTQB Foundation Level (CTFL) certified.
+ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC, covering manual, API and integration testing of B2B and B2C applications (Postman, REST API, RestAssured, SQL). Skilled in bug tracking with Jira, Kanban, root-cause analysis and production issue verification, collaborating closely with development teams. Expanded into test automation through a one-year SDET internship alongside the current role, working on real-life projects with Java, Selenium, Playwright, Cucumber, TestNG, JDBC, Jenkins and CI/CD.
 
 <img src="assets/divider.png" width="100%" alt="">
 
@@ -35,9 +35,9 @@ QA Engineer with a Software Support background and hands-on experience in manual
 
 ### ▸ FEATURED PROJECTS
 
-> **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**
-> 30 end-to-end tests (auth, navigation, search, filters, catalog, wishlist, cart, checkout) against a live e-commerce site, built with the Page Object Model.
-> `Java` `Playwright` `TestNG` `Maven`
+> **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**  
+> 30 automated end-to-end tests across 7 areas (authentication, navigation, search, filter & sort, catalog, cart, checkout) against the live gratis.com e-commerce site, in Java 17 with Playwright, TestNG and the Page Object Model. OTP-only login is handled by reusing saved session cookies (Playwright `storageState`); flaky UI is stabilized with scoped locators, web-first assertions and retry-with-verification. Full regression, a 6-test smoke suite and a manual auth suite; checkout stops before payment (no real orders).  
+> `Java 17` `Playwright` `TestNG` `Maven`
 
 > **[Cucumber + Selenium Automation Suite](https://github.com/gamzeozakinci/CucumberProject)**
 > BDD test suite with Cucumber and Selenium WebDriver.
