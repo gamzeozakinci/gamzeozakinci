@@ -19,17 +19,36 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 
 <img src="assets/divider.png" width="100%" alt="">
 
+### ▸ CERTIFICATION
+
+<a href="https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786"><img src="https://cdn.diplomasafe.com/template_badges/share_optimized/87fadf55de1f2521c72e01b7c5a6818a.png" alt="ISTQB Foundation Level (CTFL) Certificate" width="200"></a>
+
+**ISTQB Foundation Level (CTFL)** — Turkish Testing Board · [verify certificate](https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786)
+
+<img src="assets/divider.png" width="100%" alt="">
+
 ### ▸ SKILLS
 
-**Testing** &nbsp; ![Manual](https://img.shields.io/badge/-Manual-9fd8f0?style=flat-square) ![Functional](https://img.shields.io/badge/-Functional-ffb6c9?style=flat-square) ![Regression](https://img.shields.io/badge/-Regression-ffe28a?style=flat-square) ![Smoke & Integration](https://img.shields.io/badge/-Smoke_%26_Integration-b7e29a?style=flat-square) ![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-c9a8f5?style=flat-square) ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-9fd8f0?style=flat-square) ![Defect Life Cycle](https://img.shields.io/badge/-Defect_Life_Cycle-ffb6c9?style=flat-square) ![SDLC / STLC](https://img.shields.io/badge/-SDLC_%2F_STLC-ffe28a?style=flat-square)
+**Testing** &nbsp; ![Manual](https://img.shields.io/badge/-Manual-9fd8f0?style=flat-square) ![Functional](https://img.shields.io/badge/-Functional-ffb6c9?style=flat-square) ![Smoke & Integration Testing](https://img.shields.io/badge/-Smoke_%26_Integration_Testing-ffe28a?style=flat-square) ![End-to-End](https://img.shields.io/badge/-End--to--End-b7e29a?style=flat-square) ![Regression](https://img.shields.io/badge/-Regression-c9a8f5?style=flat-square)
 
-**API** &nbsp; ![Postman](https://img.shields.io/badge/-Postman-9fd8f0?style=flat-square) ![RestAssured](https://img.shields.io/badge/-RestAssured-ffb6c9?style=flat-square) ![REST API](https://img.shields.io/badge/-REST_API-ffe28a?style=flat-square)
+**Test Process** &nbsp; ![SDLC / STLC](https://img.shields.io/badge/-SDLC_%2F_STLC-9fd8f0?style=flat-square) ![Kanban](https://img.shields.io/badge/-Kanban-ffb6c9?style=flat-square) ![Test Planning](https://img.shields.io/badge/-Test_Planning-ffe28a?style=flat-square) ![Test Case Design & Execution](https://img.shields.io/badge/-Test_Case_Design_%26_Execution-b7e29a?style=flat-square) ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-c9a8f5?style=flat-square) ![Defect Life Cycle](https://img.shields.io/badge/-Defect_Life_Cycle-9fd8f0?style=flat-square)
 
-**Automation** &nbsp; ![Java](https://img.shields.io/badge/-Java-9fd8f0?style=flat-square) ![Selenium](https://img.shields.io/badge/-Selenium-ffb6c9?style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-ffe28a?style=flat-square) ![TestNG](https://img.shields.io/badge/-TestNG-b7e29a?style=flat-square) ![Cucumber BDD](https://img.shields.io/badge/-Cucumber_BDD-c9a8f5?style=flat-square)
+**API Testing** &nbsp; ![REST API](https://img.shields.io/badge/-REST_API-9fd8f0?style=flat-square) ![Postman (pm.test scripting)](https://img.shields.io/badge/-Postman_%28pm.test_scripting%29-ffb6c9?style=flat-square) ![RestAssured](https://img.shields.io/badge/-RestAssured-ffe28a?style=flat-square)
 
-**Data & tools** &nbsp; ![SQL](https://img.shields.io/badge/-SQL-9fd8f0?style=flat-square) ![JDBC](https://img.shields.io/badge/-JDBC-ffb6c9?style=flat-square) ![Jira](https://img.shields.io/badge/-Jira-ffe28a?style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-b7e29a?style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-c9a8f5?style=flat-square)
+**Automation** &nbsp; ![Java](https://img.shields.io/badge/-Java-9fd8f0?style=flat-square) ![Selenium WebDriver](https://img.shields.io/badge/-Selenium_WebDriver-ffb6c9?style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-ffe28a?style=flat-square) ![TestNG](https://img.shields.io/badge/-TestNG-b7e29a?style=flat-square) ![Cucumber (BDD/Gherkin)](https://img.shields.io/badge/-Cucumber_%28BDD%2FGherkin%29-c9a8f5?style=flat-square) ![Page Object Model](https://img.shields.io/badge/-Page_Object_Model-9fd8f0?style=flat-square)
 
-**Learning** &nbsp; ![JMeter](https://img.shields.io/badge/-JMeter-c9a8f5?style=flat-square) ![Appium](https://img.shields.io/badge/-Appium-c9a8f5?style=flat-square)
+**Tools & CI/CD** &nbsp; ![Jira](https://img.shields.io/badge/-Jira-9fd8f0?style=flat-square) ![Git / GitHub](https://img.shields.io/badge/-Git_%2F_GitHub-ffb6c9?style=flat-square) ![Maven](https://img.shields.io/badge/-Maven-ffe28a?style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-b7e29a?style=flat-square) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-c9a8f5?style=flat-square)
+
+**Database** &nbsp; ![SQL (MySQL)](https://img.shields.io/badge/-SQL_%28MySQL%29-9fd8f0?style=flat-square) ![JDBC](https://img.shields.io/badge/-JDBC-ffb6c9?style=flat-square)
+
+**Languages** &nbsp; ![Turkish (Native)](https://img.shields.io/badge/-Turkish_%28Native%29-9fd8f0?style=flat-square) ![English (Advanced)](https://img.shields.io/badge/-English_%28Advanced%29-ffb6c9?style=flat-square)
+
+<img src="assets/divider.png" width="100%" alt="">
+
+### ▸ EXPERIENCE
+
+- **Software Development Engineer in Test (Internship)** · Techno Study Inc. · New Jersey, United States (Remote) · *Jun 2025 – Aug 2026*
+- **Software Support Specialist** · AnexTour · Antalya, Turkey (Hybrid) · *May 2023 – Present*
 
 <img src="assets/divider.png" width="100%" alt="">
 
@@ -46,19 +65,6 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 > **[OpenMRS Automation Testing](https://github.com/gamzeozakinci/OpenMrsAutomationTest)**
 > Automated test suite built against the OpenMRS reference application using TestNG.
 > `Java` `TestNG`
-
-<img src="assets/divider.png" width="100%" alt="">
-
-### ▸ EXPERIENCE
-
-- **Software Support Specialist** · AnexTour · *May 2023 – Present*
-- **SDET Intern** · Techno Study Inc. · *Jun 2025 – Aug 2026*
-
-### ▸ CERTIFICATION
-
-<a href="https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786"><img src="https://cdn.diplomasafe.com/template_badges/share_optimized/87fadf55de1f2521c72e01b7c5a6818a.png" alt="ISTQB Foundation Level (CTFL) Certificate" width="200"></a>
-
-**ISTQB Foundation Level (CTFL)** — Turkish Testing Board · [verify certificate](https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786)
 
 <img src="assets/divider.png" width="100%" alt="">
 
