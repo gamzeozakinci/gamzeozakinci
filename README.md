@@ -58,6 +58,10 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 > 30 automated end-to-end tests across 7 areas (authentication, navigation, search, filter & sort, catalog, cart, checkout) against the live gratis.com e-commerce site, in Java 17 with Playwright, TestNG and the Page Object Model. OTP-only login is handled by reusing saved session cookies (Playwright `storageState`); flaky UI is stabilized with scoped locators, web-first assertions and retry-with-verification. Full regression, a 6-test smoke suite and a manual auth suite; checkout stops before payment (no real orders).  
 > `Java 17` `Playwright` `TestNG` `Maven`
 
+> **[Mersys Portal — Selenium + Cucumber UI Automation](https://github.com/gamzeozakinci/MersysProject)**  
+> End-to-end UI tests for the student portal of Mersys, a school management site: 25 user stories and 44 scenarios across login, navigation, messaging, finance, attendance, profile, grading, assignments and the calendar, written in Gherkin and run in Java 17 with Selenium, Cucumber and TestNG using the Page Object Model on Chrome, Edge and Firefox. Scenario tags (`@Smoke`, `@Regression`, `@Negative`, `@Bug`, `@NoCI`) drive TestNG suites, and GitHub Actions runs a dry run plus the 24-scenario CI suite in headless Chrome. ExtentReports adds failure screenshots, and 2 site bugs are documented with the blocked scenarios tagged `@Bug`. The shared test account login comes from a configuration file and can be overridden from the command line.  
+> `Java 17` `Selenium` `Cucumber` `TestNG` `Maven` `GitHub Actions`
+
 <img src="assets/divider.png" width="100%" alt="">
 
 <p align="center"><sub>♥ made with pixels &amp; test cases</sub></p>
