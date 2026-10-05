@@ -45,13 +45,6 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 
 <img src="assets/divider.png" width="100%" alt="">
 
-### ▸ EXPERIENCE
-
-- **Software Development Engineer in Test (Internship)** · Techno Study Inc. · New Jersey, United States (Remote) · *Jun 2025 – Aug 2026*
-- **Software Support Specialist** · AnexTour · Antalya, Turkey (Hybrid) · *May 2023 – Present*
-
-<img src="assets/divider.png" width="100%" alt="">
-
 ### ▸ FEATURED PROJECTS
 
 > **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**  
@@ -61,6 +54,10 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 > **[Mersys Portal — Selenium + Cucumber UI Automation](https://github.com/gamzeozakinci/MersysProject)**  
 > End-to-end UI tests for the student portal of Mersys, a school management site: 25 user stories and 44 scenarios across login, navigation, messaging, finance, attendance, profile, grading, assignments and the calendar, written in Gherkin and run in Java 17 with Selenium, Cucumber and TestNG using the Page Object Model on Chrome, Edge and Firefox. Scenario tags (`@Smoke`, `@Regression`, `@Negative`, `@Bug`, `@NoCI`) drive TestNG suites, and GitHub Actions runs a dry run plus the 24-scenario CI suite in headless Chrome. ExtentReports adds failure screenshots, and 2 site bugs are documented with the blocked scenarios tagged `@Bug`. The shared test account login comes from a configuration file and can be overridden from the command line.  
 > `Java 17` `Selenium` `Cucumber` `TestNG` `Maven` `GitHub Actions`
+
+> **Upcoming: API & Performance Testing**  
+> REST API and load testing project with Postman, RestAssured and JMeter. *Coming soon.*  
+> `Postman` `RestAssured` `JMeter`
 
 <img src="assets/divider.png" width="100%" alt="">
 
