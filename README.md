@@ -58,10 +58,6 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 > 30 automated end-to-end tests across 7 areas (authentication, navigation, search, filter & sort, catalog, cart, checkout) against the live gratis.com e-commerce site, in Java 17 with Playwright, TestNG and the Page Object Model. OTP-only login is handled by reusing saved session cookies (Playwright `storageState`); flaky UI is stabilized with scoped locators, web-first assertions and retry-with-verification. Full regression, a 6-test smoke suite and a manual auth suite; checkout stops before payment (no real orders).  
 > `Java 17` `Playwright` `TestNG` `Maven`
 
-> **[Cucumber + Selenium Automation Suite](https://github.com/gamzeozakinci/CucumberProject)**
-> BDD test suite with Cucumber and Selenium WebDriver.
-> `Java` `Selenium` `Cucumber`
-
 > **[OpenMRS Automation Testing](https://github.com/gamzeozakinci/OpenMrsAutomationTest)**
 > Automated test suite built against the OpenMRS reference application using TestNG.
 > `Java` `TestNG`
