@@ -21,8 +21,6 @@ ISTQB-certified QA Engineer with 3+ years of experience across the SDLC and STLC
 
 ### ▸ CERTIFICATION
 
-<a href="https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786"><img src="https://cdn.diplomasafe.com/template_badges/share_optimized/87fadf55de1f2521c72e01b7c5a6818a.png" alt="ISTQB Foundation Level (CTFL) Certificate" width="200"></a>
-
 **ISTQB Foundation Level (CTFL)** — Turkish Testing Board · [verify certificate](https://app.diplomasafe.com/en-US/certificates/ded106d21747fca0e2ebe83f3451364a18049c786)
 
 <img src="assets/divider.png" width="100%" alt="">
