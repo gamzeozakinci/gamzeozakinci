@@ -15,7 +15,7 @@
 
 ### ▸ ABOUT
 
-ISTQB-certified QA Engineer with 2+ years of QA experience across the SDLC and STLC, covering manual, API and integration testing of B2B and B2C applications (Postman, REST API, RestAssured, SQL). Skilled in bug tracking with Jira, Kanban, root-cause analysis and production issue verification, collaborating closely with development teams. Expanded into test automation through a one-year SDET internship alongside the current role, working on real-life projects with Java, Selenium, Playwright, Cucumber, TestNG, JDBC, Jenkins and CI/CD.
+ISTQB-certified QA Engineer with 2+ years in QA, covering manual, API and integration testing of B2B and B2C applications with Postman, REST API, RestAssured and SQL, plus test automation in Java with Selenium, Playwright, Cucumber, TestNG and JDBC. Experienced in bug tracking with Jira, root-cause analysis and release verification with internal and global development teams.
 
 <img src="assets/divider.png" width="100%" alt="">
 
