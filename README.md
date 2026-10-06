@@ -27,19 +27,14 @@ ISTQB-certified QA Engineer with 2+ years in QA, covering manual, API and integr
 
 ### ▸ SKILLS
 
-**Testing** &nbsp; ![Manual](https://img.shields.io/badge/-Manual-9fd8f0?style=flat-square) ![Functional](https://img.shields.io/badge/-Functional-ffb6c9?style=flat-square) ![Smoke & Integration Testing](https://img.shields.io/badge/-Smoke_%26_Integration_Testing-ffe28a?style=flat-square) ![End-to-End](https://img.shields.io/badge/-End--to--End-b7e29a?style=flat-square) ![Regression](https://img.shields.io/badge/-Regression-c9a8f5?style=flat-square)
+**Testing & API**  
+`Manual` `Functional` `Smoke & Integration Testing` `End-to-End` `Regression` `SDLC / STLC` `Kanban` `Test Planning` `Test Case Design & Execution` `Bug Reporting` `Defect Life Cycle` `REST API` `Postman (pm.test scripting)` `RestAssured`
 
-**Test Process** &nbsp; ![SDLC / STLC](https://img.shields.io/badge/-SDLC_%2F_STLC-9fd8f0?style=flat-square) ![Kanban](https://img.shields.io/badge/-Kanban-ffb6c9?style=flat-square) ![Test Planning](https://img.shields.io/badge/-Test_Planning-ffe28a?style=flat-square) ![Test Case Design & Execution](https://img.shields.io/badge/-Test_Case_Design_%26_Execution-b7e29a?style=flat-square) ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-c9a8f5?style=flat-square) ![Defect Life Cycle](https://img.shields.io/badge/-Defect_Life_Cycle-9fd8f0?style=flat-square)
+**Automation & Tools**  
+`Java` `Selenium WebDriver` `Playwright` `TestNG` `Cucumber (BDD/Gherkin)` `Page Object Model` `Jira` `Git / GitHub` `Maven` `Jenkins` `CI/CD`
 
-**API Testing** &nbsp; ![REST API](https://img.shields.io/badge/-REST_API-9fd8f0?style=flat-square) ![Postman (pm.test scripting)](https://img.shields.io/badge/-Postman_%28pm.test_scripting%29-ffb6c9?style=flat-square) ![RestAssured](https://img.shields.io/badge/-RestAssured-ffe28a?style=flat-square)
-
-**Automation** &nbsp; ![Java](https://img.shields.io/badge/-Java-9fd8f0?style=flat-square) ![Selenium WebDriver](https://img.shields.io/badge/-Selenium_WebDriver-ffb6c9?style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-ffe28a?style=flat-square) ![TestNG](https://img.shields.io/badge/-TestNG-b7e29a?style=flat-square) ![Cucumber (BDD/Gherkin)](https://img.shields.io/badge/-Cucumber_%28BDD%2FGherkin%29-c9a8f5?style=flat-square) ![Page Object Model](https://img.shields.io/badge/-Page_Object_Model-9fd8f0?style=flat-square)
-
-**Tools & CI/CD** &nbsp; ![Jira](https://img.shields.io/badge/-Jira-9fd8f0?style=flat-square) ![Git / GitHub](https://img.shields.io/badge/-Git_%2F_GitHub-ffb6c9?style=flat-square) ![Maven](https://img.shields.io/badge/-Maven-ffe28a?style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-b7e29a?style=flat-square) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-c9a8f5?style=flat-square)
-
-**Database** &nbsp; ![SQL (MySQL)](https://img.shields.io/badge/-SQL_%28MySQL%29-9fd8f0?style=flat-square) ![JDBC](https://img.shields.io/badge/-JDBC-ffb6c9?style=flat-square)
-
-**Languages** &nbsp; ![Turkish (Native)](https://img.shields.io/badge/-Turkish_%28Native%29-9fd8f0?style=flat-square) ![English (Advanced)](https://img.shields.io/badge/-English_%28Advanced%29-ffb6c9?style=flat-square)
+**Data & Languages**  
+`SQL (MySQL)` `JDBC` `Turkish (Native)` `English (Advanced)`
 
 <img src="assets/divider.png" width="100%" alt="">
 
