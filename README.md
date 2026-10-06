@@ -25,19 +25,6 @@ ISTQB-certified QA Engineer with 2+ years in QA, covering manual, API and integr
 
 <img src="assets/divider.png" width="100%" alt="">
 
-### ▸ SKILLS
-
-**Testing & API**  
-`Manual` `Functional` `Smoke & Integration Testing` `End-to-End` `Regression` `SDLC / STLC` `Kanban` `Test Planning` `Test Case Design & Execution` `Bug Reporting` `Defect Life Cycle` `REST API` `Postman (pm.test scripting)` `RestAssured`
-
-**Automation & Tools**  
-`Java` `Selenium WebDriver` `Playwright` `TestNG` `Cucumber (BDD/Gherkin)` `Page Object Model` `Jira` `Git / GitHub` `Maven` `Jenkins` `CI/CD`
-
-**Data & Languages**  
-`SQL (MySQL)` `JDBC` `Turkish (Native)` `English (Advanced)`
-
-<img src="assets/divider.png" width="100%" alt="">
-
 ### ▸ FEATURED PROJECTS
 
 **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**
@@ -105,6 +92,19 @@ End-to-end UI test automation for the student portal of Mersys, a school managem
 </details>
 
 `Java 17` `Selenium` `Cucumber` `TestNG` `Maven` `GitHub Actions`
+
+<img src="assets/divider.png" width="100%" alt="">
+
+### ▸ SKILLS
+
+**Testing & API**  
+`Manual` `Functional` `Smoke & Integration Testing` `End-to-End` `Regression` `SDLC / STLC` `Kanban` `Test Planning` `Test Case Design & Execution` `Bug Reporting` `Defect Life Cycle` `REST API` `Postman (pm.test scripting)` `RestAssured`
+
+**Automation & Tools**  
+`Java` `Selenium WebDriver` `Playwright` `TestNG` `Cucumber (BDD/Gherkin)` `Page Object Model` `Jira` `Git / GitHub` `Maven` `Jenkins` `CI/CD`
+
+**Data & Languages**  
+`SQL (MySQL)` `JDBC` `Turkish (Native)` `English (Advanced)`
 
 <img src="assets/divider.png" width="100%" alt="">
 
