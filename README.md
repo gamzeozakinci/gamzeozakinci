@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://gamzeozakinci.github.io"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://gamzeozakinci.github.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-button-dark.png">
+      <img src="assets/portfolio-button.png" alt="Visit my portfolio: gamzeozakinci.github.io" width="300">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gamzeozakinci/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:gamze.ozakinci@gmail.com"><b>✉️ Email</b></a> &nbsp;·&nbsp;
   📍 İzmir, Turkey
