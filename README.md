@@ -101,6 +101,56 @@ End-to-end UI test automation for the student portal of Mersys, a school managem
 
 `Java 17` `Selenium` `Cucumber` `TestNG` `Maven` `GitHub Actions`
 
+**[GitHub REST API — REST Assured + TestNG API Automation](https://github.com/gamzeozakinci/GithubApiProject)**
+API test automation for the **GitHub REST API**, written in Java 17 with REST Assured and TestNG: 96 automated tests across authentication, rate limits, users, repositories, issues, comments, labels, file contents, branches, search, gists and cross-cutting contract checks. Every test carries a test case ID and TestNG groups (smoke, regression, negative, contract), and the full test plan is in the repository. It runs against the live API, so much of the work went into test data cleanup, eventual consistency and rate limits.
+
+**96** tests · **12** areas · **4** suites · **3** JSON schemas
+
+<details>
+<summary><b>Coverage</b></summary>
+
+- **Authentication (5 tests):** valid, missing and invalid token; a public resource without a token; the response checked against a user JSON schema.
+- **Rate limit (3 tests):** the quota endpoint, rate limit headers on normal responses, and the *used* counter increasing between two calls.
+- **Users (7 tests):** existing and non-existent user, a user's public repositories, pagination with *per_page* and *page*, the Link header and a conditional request with ETag.
+- **Repositories (19 tests):** create with a minimal body, private, auto_init, no name, duplicate name, no auth and invalid characters; get by owner and name, non-existent and private without auth; list and filter by visibility; update description, rename, archive, update a repository owned by someone else; delete and delete twice; a repository JSON schema check.
+- **Issues (15 tests):** create with labels and an assignee, without a title and without auth; get by number; update, close and reopen; list open and closed issues and filter by label; issue numbers increment; an issue JSON schema check.
+- **Issue comments (7 tests):** add, empty body, list, update, delete, the comment count on the issue, and a comment on a non-existent issue.
+- **Labels (6 tests):** create, duplicate, invalid color, list, update and delete.
+- **Repository contents (8 tests):** create, read, update with and without the file SHA, delete, read a non-existent file, list a directory and reject content that is not Base64.
+- **Branches and commits (7 tests):** list and get branches, a non-existent branch, list commits, create a branch through a git ref, a duplicate ref and delete a branch.
+- **Search (7 tests):** repositories by keyword, the language qualifier, sort by stars, a missing *q*, no results, users and pagination.
+- **Gists (6 tests):** create, create without files, get, update, delete and create without auth.
+- **Contract checks (6 tests):** content type, response time, error body shape, an unsupported method, a wrong API version header and an unknown route.
+
+</details>
+
+<details>
+<summary><b>Engineering decisions</b></summary>
+
+- **Shared building blocks:** reusable request and response specifications, a class of endpoint constants and a *RepositoryApi* helper that creates and deletes test repositories keep the tests short.
+- **Token safety:** the personal access token is read from an environment variable and never stored in the repository.
+- **Test data:** the issue, comment, label, content and branch tests create one repository per class and delete it afterwards; the names contain a timestamp, so runs can be repeated. The gist tests create and delete their own gists.
+- **Eventual consistency:** rename and issue list tests retry up to six times, two seconds apart, because the API can lag behind its own writes.
+- **Rate limits:** creating one repository per test triggered GitHub's secondary rate limit, so the tests share one repository per class and run sequentially.
+- **Suites and contracts:** separate TestNG suite files for smoke, regression, negative and contract tests; JSON Schema validation (user, repository, issue) plus checks on headers and error bodies.
+
+</details>
+
+<details>
+<summary><b>Found while testing the live API</b></summary>
+
+- **Repository names are sanitized:** invalid characters are replaced by a hyphen and the request still returns 201.
+- **Two error messages:** a 422 response has a general *message* and the specific reason in *errors[0].message*.
+- **Language search is not exact:** results of a *language:java* search can have a null language.
+- **Search needs a query:** a search without *q* returns 422 with *errors[0].field = q*.
+- **Unsupported API versions:** a request with *X-GitHub-Api-Version: 1999-01-01* returns 400 and lists the supported versions.
+
+</details>
+
+[Test plan (PDF)](https://github.com/gamzeozakinci/GithubApiProject/blob/master/docs/GitHub-API-Test-Plan.pdf)
+
+`Java 17` `REST Assured` `TestNG` `Maven` `JSON Schema`
+
 <img src="assets/divider.png" width="100%" alt="">
 
 ### ▸ SKILLS
