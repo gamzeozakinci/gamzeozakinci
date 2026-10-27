@@ -136,17 +136,6 @@ API test automation for the **GitHub REST API**, written in Java 17 with REST As
 
 </details>
 
-<details>
-<summary><b>Found while testing the live API</b></summary>
-
-- **Repository names are sanitized:** invalid characters are replaced by a hyphen and the request still returns 201.
-- **Two error messages:** a 422 response has a general *message* and the specific reason in *errors[0].message*.
-- **Language search is not exact:** results of a *language:java* search can have a null language.
-- **Search needs a query:** a search without *q* returns 422 with *errors[0].field = q*.
-- **Unsupported API versions:** a request with *X-GitHub-Api-Version: 1999-01-01* returns 400 and lists the supported versions.
-
-</details>
-
 [Test plan (PDF)](https://github.com/gamzeozakinci/GithubApiProject/blob/master/docs/GitHub-API-Test-Plan.pdf)
 
 `Java 17` `REST Assured` `TestNG` `Maven` `JSON Schema`
