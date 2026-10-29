@@ -4,14 +4,7 @@
   <b>QA Engineer</b> &nbsp;·&nbsp; Manual, API &amp; Automation Testing
 </p>
 
-<p align="center">
-  <a href="https://gamzeozakinci.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-button-dark.png">
-      <img src="assets/portfolio-button.png" alt="Visit my portfolio: gamzeozakinci.github.io" width="300">
-    </picture>
-  </a>
-</p>
+<h3 align="center"><a href="https://gamzeozakinci.github.io">Visit my portfolio →</a></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gamzeozakinci/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
