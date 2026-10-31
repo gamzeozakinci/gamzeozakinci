@@ -29,7 +29,7 @@ ISTQB-certified QA Engineer with 2+ years in QA, covering manual, API and integr
 ### ▸ FEATURED PROJECTS
 
 **[GitHub REST API — REST Assured + TestNG API Automation](https://github.com/gamzeozakinci/GithubApiProject)**
-API test automation for the **GitHub REST API**, written in Java 17 with REST Assured and TestNG: 96 automated tests across authentication, rate limits, users, repositories, issues, comments, labels, file contents, branches, search, gists and cross-cutting contract checks. Every test carries a test case ID and TestNG groups (smoke, regression, negative, contract), and the full test plan is in the repository. It runs against the live API, so much of the work went into test data cleanup, eventual consistency and rate limits.
+API test automation for the **GitHub REST API**, written in Java 17 with REST Assured and TestNG: 96 automated tests across authentication, rate limits, users, repositories, issues, comments, labels, file contents, branches, search, gists and cross-cutting contract checks. Every test carries a test case ID and TestNG groups (smoke, regression, negative, contract), each suite run writes an ExtentReports HTML report, and the full test plan is in the repository. It runs against the live API, so much of the work went into test data cleanup, eventual consistency and rate limits.
 
 **96** tests · **12** areas · **4** suites · **3** JSON schemas
 
@@ -55,17 +55,18 @@ API test automation for the **GitHub REST API**, written in Java 17 with REST As
 <summary><b>Engineering decisions</b></summary>
 
 - **Shared building blocks:** reusable request and response specifications, a class of endpoint constants and a *RepositoryApi* helper that creates and deletes test repositories keep the tests short.
-- **Token safety:** the personal access token is read from an environment variable and never stored in the repository.
-- **Test data:** the issue, comment, label, content and branch tests create one repository per class and delete it afterwards; the names contain a timestamp, so runs can be repeated. The gist tests create and delete their own gists.
+- **Token safety:** the personal access token is read from an environment variable and never stored in the repository; the account name comes from *GET /user*, so nothing else has to be configured.
+- **Independent tests:** no test depends on another test or on existing data: each class creates its own repository (or each test its own resource) with a unique, timestamped name and removes it again, so the suite can be repeated and run in any order.
+- **Proving the result:** tests that change data read the resource again: an update is followed by a GET that shows the new value, a delete by a GET that returns 404.
 - **Eventual consistency:** rename and issue list tests retry up to six times, two seconds apart, because the API can lag behind its own writes.
-- **Rate limits:** creating one repository per test triggered GitHub's secondary rate limit, so the tests share one repository per class and run sequentially.
-- **Suites and contracts:** separate TestNG suite files for smoke, regression, negative and contract tests; JSON Schema validation (user, repository, issue) plus checks on headers and error bodies.
+- **Rate limits:** every request waits one second first, as GitHub recommends, and the tests run sequentially and share a repository where they can, to stay clear of GitHub's secondary rate limit.
+- **Suites and reports:** one TestNG suite file per group (smoke 21 tests, regression 90, negative 29, contract 13), chosen with *-Dsuite*; an ExtentReports HTML report for every run; JSON Schema validation (user, repository, issue) plus checks on headers and error bodies.
 
 </details>
 
 [Test plan (PDF)](https://github.com/gamzeozakinci/GithubApiProject/blob/master/docs/GitHub-API-Test-Plan.pdf)
 
-`Java 17` `REST Assured` `TestNG` `Maven` `JSON Schema`
+`Java 17` `REST Assured` `TestNG` `Maven` `JSON Schema` `ExtentReports`
 
 **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**
 End-to-end UI test automation for gratis.com, a large Turkish cosmetics e-commerce site: 30 automated tests across 7 areas, written in Java 17 with Playwright and TestNG using the Page Object Model (7 page objects). It runs against the real, live production site, so most of the engineering went into reliability: OTP-only login, look-alike elements, flaky clicks and a third-party payment widget.
