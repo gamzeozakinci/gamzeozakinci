@@ -71,7 +71,7 @@ API test automation for the **GitHub REST API**, written in Java 17 with REST As
 **[Gratis.com — Playwright + TestNG UI Automation](https://github.com/gamzeozakinci/GratisProject)**
 End-to-end UI test automation for gratis.com, a large Turkish cosmetics e-commerce site: 30 automated tests across 7 areas, written in Java 17 with Playwright and TestNG using the Page Object Model (7 page objects). It runs against the real, live production site, so most of the engineering went into reliability: OTP-only login, look-alike elements, flaky clicks and a third-party payment widget.
 
-**30** tests · **7** areas · **3** suites · **6** smoke tests
+**30** tests · **7** areas · **9** suites · **6** smoke tests
 
 <details>
 <summary><b>Coverage</b></summary>
@@ -93,11 +93,11 @@ End-to-end UI test automation for gratis.com, a large Turkish cosmetics e-commer
 - **Finding the right element:** the same element often appears several times on a page, so locators are scoped to one product card, cart row or dialog, or to the visible copy only.
 - **Web-first assertions:** auto-retrying assertions (`hasURL`, `hasText`, `isVisible`) instead of guessing at timing.
 - **Retry with verification:** genuinely flaky actions, such as a header link and the payment step, are retried up to 3 times and the test continues only once the result (URL change or modal) is confirmed.
-- **Structure & suites:** fresh browser per test, config-driven test data, desktop and mobile viewports, failure screenshots and TestNG HTML reports; full regression, a 6-test tagged smoke suite and a manual auth suite for the OTP tests.
+- **Structure & suites:** fresh browser per test, config-driven test data, desktop and mobile viewports, and an ExtentReports HTML report with failure screenshots; nine suites: full regression, a 6-test tagged smoke suite, a manual auth suite for the OTP tests and one suite per area.
 
 </details>
 
-`Java 17` `Playwright` `TestNG` `Maven` `Page Object Model`
+`Java 17` `Playwright` `TestNG` `Maven` `Page Object Model` `ExtentReports`
 
 **[Mersys Portal — Selenium + Cucumber UI Automation](https://github.com/gamzeozakinci/MersysProject)**
 End-to-end UI test automation for the student portal of Mersys, a school management site: 25 user stories and 44 scenarios written in plain English (Gherkin) and run with Java 17, Selenium WebDriver, Cucumber and TestNG using the Page Object Model on Chrome, Edge and Firefox. It runs against the Mersys test site, so much of the work went into stable waits, file uploads, a third-party card form and known site bugs.
